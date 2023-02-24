@@ -22,4 +22,4 @@ This repository is for storing the tasks for the project 2035
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEOINID&theme=ocean_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LEOINID&repo=github-Homework_2035)](https://github.com/LEOINID/Homework_2035)
